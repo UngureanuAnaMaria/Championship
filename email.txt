@@ -1,0 +1,10 @@
+
+Ai fost acceptat in campionat.Vezi mai jos detalii despre Campionat.
+Nume campionat: Campionat national de tenis
+Tip: tenis
+Structura: single-elimination
+Reguli joc: Jucatorul care pune mingea in joc este cel care serveste.
+Mod extragere partida(deciderea partidelor): Random
+Adversari: maria45
+Data urmatoarei partide: 2/4/24
+Ora la care incepe aceasta partida: 10.00
